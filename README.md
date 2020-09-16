@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Bright a person who is always enthusiastic about learning new stuff related to tech. I am an aspiring Web developer.
-I find it interesting to work with python and the Django framework. I just finished my first degree(BSC IT) and am very passionate about making an impact everywhere i find 
+I find it interesting to work with python and the Django framework. I just finished my first degree(BSC IT) and am very passionate about making an impact everywhere I find 
 myself. I hope I find this new journey of bridging classroom knowledge with industry practices exciting!! Cheers! 
