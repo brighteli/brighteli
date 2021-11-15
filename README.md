@@ -19,5 +19,5 @@ I am Bright a person who is always enthusiastic about learning new stuff related
 👓Quality Assuarance Engineer 
 🎱Selenium 
 🥇CI/CD 
-🔮Devops 
+🔮Devops.
 Cheers! 
