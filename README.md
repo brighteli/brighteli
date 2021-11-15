@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Bright a person who is always enthusiastic about learning new stuff related to tech. I do stuff like... /n
+I am Bright a person who is always enthusiastic about learning new stuff related to tech. I do stuff like...
+
 🎖 Web development
 👓Quality Assuarance Engineering 
 🎱Selenium 
